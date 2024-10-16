@@ -3,6 +3,7 @@ import './App.css'
 import DepartmentForm from './components/department/departmentForm'
 import RegistrationForm from './components/registeration/registrationForm'
 import LoginForm from './components/registeration/loginForm'
+import PatientRegisterForm from './components/patient/patientRegisterForm'
 
 function App() {
 
@@ -12,6 +13,7 @@ function App() {
   <DepartmentForm/>
   <RegistrationForm/>
   <LoginForm/>
+  <PatientRegisterForm/>
     </>
   )
 }
