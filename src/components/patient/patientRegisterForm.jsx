@@ -64,7 +64,7 @@ const PatientRegisterForm = () => {
       padding: '20px',
       boxShadow: '0 4px 6px rgba(0, 0, 0, 0.1)',
     }}>
-      <h2 style={{ textAlign: 'center' }}>Add Patient Data</h2>
+      <h2 style={{ textAlign: 'center' }}>Patient's Add Data when entering the hospital</h2>
       
       <Stack spacing={2} sx={{ marginBottom: 4, width: '100%' }}>
         <TextField
@@ -145,7 +145,7 @@ const PatientRegisterForm = () => {
           sx={{
             backgroundColor: '#1a1a1a',
             color: 'white',
-            '&:hover': { backgroundColor: '#ff4500' }
+            '&:hover': { backgroundColor: '#9be5aa' }
           }}
         >
           Submit

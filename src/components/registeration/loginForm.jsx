@@ -62,6 +62,7 @@ const LoginForm = () => {
             variant="outlined"
             required
           >
+            
             <MenuItem value="" disabled>
               User Types
             </MenuItem>

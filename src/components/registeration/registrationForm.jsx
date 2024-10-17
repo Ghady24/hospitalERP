@@ -29,7 +29,7 @@ const RegistrationForm = () => {
 
     console.log('Registration Data:', registrationData);
 
-    // axios.post('https://your-api-endpoint.com/register', registrationData)
+    // axios.post('', registrationData)
     //   .then(response => {
     //     console.log('Registration successful:', response.data);
     //   })
